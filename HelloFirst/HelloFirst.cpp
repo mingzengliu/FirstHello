@@ -9,6 +9,7 @@ int main()
 	std::cout << "Hello First \n";
 	std::cout << "Again hello " << std::endl;
 	std::cout << "Add one line \n";
+	std::cout << "\n";
     return 0;
 }
 
